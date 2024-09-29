@@ -1,0 +1,4 @@
+http://172.16.70.33/~sachinkumar.3024/index.html
+
+username = Sachin
+password = Abc@1234

@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(188, 185, 187);
+}
+
+.navbar {
+    border: solid;
+    border-color: yellow;
+    border-width: 2px;
+    font-size: large;
+	/* height : 40px;    */
+	background-color: #2e2827;
+	border-radius : 20px;
+	text-align : center;
+	padding : 15px;
+    margin: 20px;
+}
+
+a {
+	margin : 100px;
+	color : yellow;
+	text-decoration : none;
+}
+
+.footer {
+    border: solid;
+    border-color: yellow;
+    border-width: 2px;
+	background-color :  #2e2827;
+	color : white;
+	border-radius : 20px;
+	text-align : center;
+    margin: 30px;
+}
+
+h4 {
+    color: #de0707;
+}
+
+button {
+    color : rgb(4, 0, 0);
+    background-color: rgb(217, 255, 0);
+    border-radius: 5px;
+}
+
+
+img {
+    border-radius: 50%;
+    border: solid;
+    border-color: rgb(168, 189, 6);
+}
+
+h2 {
+	text-align : center;
+}
+
+#pub {
+    border: solid;
+    border-width: 2px;
+    height : 460px;
+    width: auto;
+    margin: 30px;
+	background-color:#4949369d;
+	border-radius : 20px;
+	text-align : center;
+	padding : 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+main {
+    margin: 30px;
+}
